@@ -311,5 +311,5 @@ ul.img_flex > li {
 }
 
 ul.img_flex > li:nth-child(2) {
-	margin: 0 10px;
+	margin: 0;
 }
