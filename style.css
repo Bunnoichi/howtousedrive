@@ -69,8 +69,8 @@ ul.ulli_good li::before {
 p {
 	/* margin: 1em 0; */
 }
-.cl_img {
-	padding: 0em 10em 20em;
+.cl_image {
+	padding: 0em 7% 1em;
 }
 img {
 	max-width: 100%;
@@ -295,4 +295,21 @@ li+div.inner_level1 {
 .toc-002 a {
 	color: #333;
 	text-decoration: none;
+}
+
+.cl_image_2 {
+	padding: 1em 0% 1.5em;
+}
+
+ul.img_flex {
+	display: flex;
+	justify-content: center;
+}
+
+ul.img_flex > li {
+	list-style: none;
+}
+
+ul.img_flex > li:nth-child(2) {
+	margin: 0 10px;
 }
