@@ -197,7 +197,7 @@ h4 {
 	padding: 0px 5% 15px;
 }
 
-li+div.inner_level1 {
+li+div.inner_level1, #attention_gray{
 	color: #505050;
 	font-size: 14px;
 }
